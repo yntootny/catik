@@ -1,0 +1,62 @@
+body{
+    font-family:"StratoSkyeng",sans-serif;
+    background-image:url(./4a7409d18cd81c9e2f3f0435868f1be4.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.header{
+    height: 100vh;
+    background-image:url(./1a635a374e4a6cf0df13033cddf58680.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+table{
+    width: 1200px;
+    height: 100vh;
+    border-collapse: collapse;
+margin-top:0 ;
+margin-bottom:0;
+margin-right: auto;
+margin-left:auto ;
+}
+td,tr{
+    border: 25px solid white;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+img{
+    width: 560px;
+}
+
+.content{
+    padding-top: 75px;
+    border-top: 25px solid #000;
+    position: relative;
+}
+
+p{
+    width: max-content;
+    font-size: 30px;
+    background-color: #78c2bd;
+    border-radius: 25px;
+    margin: 23px auto;
+    padding: 10px 30px;  
+}
+
+a{
+    display: block;
+    background-color:  #0092cc;
+    color: #0a2981;
+    padding: 11px 30px;
+    border-radius: 50px;
+    font-size: 38px;
+    position: absolute;
+    right: 80px;
+    bottom: 75px;
+    text-decoration: none;
+    
+}
